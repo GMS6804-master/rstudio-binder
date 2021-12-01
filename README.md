@@ -1,6 +1,6 @@
 # Specifying an R environment with a runtime.txt file
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/GMS6804-master/rstudio-binder/main?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/GMS6804-master/rstudio-binder/HEAD?urlpath=rstudio)
 
 
 Binder supports using R and RStudio, with libraries pinned to a specific 
